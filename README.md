@@ -1,22 +1,24 @@
-# EVE Door & Window Sensor Wallmount Base Plate And Spacer
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![3D Print Ready](https://img.shields.io/badge/3D_Print-Ready-brightgreen.svg)
+![Compatible with: EVE Door & Window Sensor](https://img.shields.io/badge/Compatible_With-EVE%20Sensor-blue.svg)
+![Made with Fusion 360](https://img.shields.io/badge/Made_with-Fusion%20360-orange.svg)
+[![Downloads on MakerWorld](https://img.shields.io/badge/MakerWorld-Download-blueviolet?logo=printables)](https://makerworld.com/en/models/your-model-id-here)
 
-A 3D printable spacer system designed to optimize the mounting of the [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window). This includes multiple spacer sizes, standalone wall-mount variants, and a split model design for improved printability and flexibility.
+# Wallmount Base Plate And Spacer for EVE Door & Window Sensor
+
+A 3D printable spacer system designed to optimize the mounting of the [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window). This includes multiple spacer sizes (3.5 mm to 20 mm) with clean press-fit assembly, standalone wall-mount variants.
 
 ## Overview
 
 This project provides a set of modular, 3D printable spacers specifically for the EVE Door & Window Sensor. With multiple heights and standalone wall-mount configurations, it offers a more flexible installation experience than the standard package.
 
-- **Product**: Spacer / Wall-mount system for [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window)
-- **Material**: PLA, PETG, or other commonly used filament types  
+- **Product**: Spacer / Wall-mount system designed for [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window)
 - **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-## Features
-
-- 📏 **Available in 5 Sizes**: 0 mm, 3.5 mm, 5 mm, 10 mm, and 20 mm variants  
-- 🧱 **Two Styles**: Standalone spacers or standalone wall-mount plates
-- 🛠️ **Two-Part Print (Spacers only)**: For easier printing
-- 🧩 **Ready-to-Print**: Includes `.stl` and `.3mf` files
-- 🔓 **Open-Source**: Modify or adapt the designs to fit your needs
+- **Two Styles**: Spacers or standalone wall-mount plates
+- **Available in 5 Sizes**: 0 mm, 3.5 mm, 5 mm, 10 mm, and 20 mm variants  
+- **Ready-to-Print**: Includes `.stl` and `.3mf` files
+- **Two-Part Print (Spacers only)**: For easier printing (press-fit assembly)
+- **Material**: PLA, PETG, or other commonly used filament types
 
 ## Previews
 
@@ -34,15 +36,13 @@ This project provides a set of modular, 3D printable spacers specifically for th
 ### Printed Examples
 
 *Printed spacer version:*
-![Printed Spacer](images/printed_spacer.jpg)
+![Printed Spacer](images/printed_spacer.png)
 
 *Printed wall-mount version:*
-![Printed Wall Mount](images/printed_wallmount.jpg)
+![Printed Wall Mount](images/printed_wallmount.png)
 
 *Printed wall-mount version with EVE sensor mounted:*
-![Printed Installed](images/printed_installed.jpg)
-
----
+![Printed Installed](images/printed_installed.png)
 
 ## Installation
 
@@ -67,7 +67,7 @@ Designed to be used between the wall mount base plate and the sensor. Each consi
 
 1. **Download the Files**  
    Models are provided in both `.stl` and `.3mf` formats.
-   You can also download the models via [MakerWorld](https://makerworld.com/en/models/your-model-id-here).
+   You can download the models via [MakerWorld](https://makerworld.com/en/models/your-model-id-here).
 
 2. **Slicing Recommendations**
    - Layer Height: `0.2mm`  
@@ -84,16 +84,15 @@ Designed to be used between the wall mount base plate and the sensor. Each consi
 For spacer variants (two-part models):
 1. Remove any supports and clean contact surfaces if needed.
 2. Press the two parts together — no glue is typically required.  
-   - The fit is held by **five circular pillars** designed to press-fit into matching holes.
+   - The fit is held by five circular pillars designed to press-fit into matching holes.
    - A clamp or vise can help if extra force is needed.
+   - If the press-fit is too tight, lightly sanding the posts may help.
 
 Mount the assembled piece to the surface, then attach the EVE sensor.
 
 ## Usage
 
-These spacers help with proper alignment of the [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window) during installation. This system offers additional flexibility in mounting configurations.
-
----
+These spacers help with proper alignment of the [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window) during installation. This system offers additional flexibility in mounting configurations. E.g. aligning the sensor when door/window frames are thick.
 
 ## Contributing
 
@@ -121,3 +120,7 @@ Under the following terms:
 ## Contact
 
 Questions, feedback, or suggestions? Open an [issue on GitHub](https://github.com/healerz/eve-sensor-door-window-spacer/issues)
+
+## Disclaimer
+This project and its associated files are independent, third-party accessories designed for compatibility with the EVE Door & Window Sensor.
+**EVE is a trademark of Eve Systems GmbH. This project is not affiliated with, endorsed by, or sponsored by Eve Systems.**
