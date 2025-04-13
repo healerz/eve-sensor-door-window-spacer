@@ -1,8 +1,8 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-![3D Print Ready](https://img.shields.io/badge/3D_Print-Ready-brightgreen.svg)
-![Compatible with: EVE Door & Window Sensor](https://img.shields.io/badge/Compatible_With-EVE%20Sensor-blue.svg)
-![Made with Fusion 360](https://img.shields.io/badge/Made_with-Fusion%20360-orange.svg)
-[![Downloads on MakerWorld](https://img.shields.io/badge/MakerWorld-Download-blueviolet?logo=printables)](https://makerworld.com/en/models/your-model-id-here)
+[![3D Print: Ready](https://img.shields.io/badge/3D_Print-Ready-brightgreen.svg)](#installation)
+[![Compatible with: EVE Door & Window Sensor](https://img.shields.io/badge/Compatible_With-EVE%20Sensor-blue.svg)](https://www.evehome.com/en/eve-door-window)
+[![Made with: Autodesk Fusion](https://img.shields.io/badge/Made_with-Fusion%20360-orange.svg)](https://www.autodesk.com/products/fusion-360/overview#top)
+[![Downloads on: MakerWorld](https://img.shields.io/badge/MakerWorld-Download-blueviolet?logo=printables)](https://makerworld.com/en/models/your-model-id-here)
 
 # Base Plate And Spacer for EVE Door & Window Sensor
 
