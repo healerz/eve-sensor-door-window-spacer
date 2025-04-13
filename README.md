@@ -51,22 +51,22 @@ The following printed examples were produced on a [Bambu Lab X1C](https://bambul
 
 #### Wall-Mount / Base Versions  
 Each wall mount includes the base and platform as a unified component:
-| Height | File                                                                                                                  |
-|--------|-----------------------------------------------------------------------------------------------------------------------|
-| 0 mm   | [3mf](models/EveDoorAndWindowSensorWallmountBase0mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase0mm.stl)    |
-| 3.5 mm | [3mf](models/EveDoorAndWindowSensorWallmountBase3.5mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase3.5mm.stl)|
-| 5 mm   | [3mf](models/EveDoorAndWindowSensorWallmountBase5mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase5mm.stl)    |
-| 10 mm  | [3mf](models/EveDoorAndWindowSensorWallmountBase10mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase10mm.stl)  |
-| 20 mm  | [3mf](models/EveDoorAndWindowSensorWallmountBase20mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase20mm.stl)  |
+| Height | Filament  | File                                                                                                                  |
+|--------|-----------|-----------------------------------------------------------------------------------------------------------------------|
+| 0 mm   | 3g (8g)   | [3mf](models/EveDoorAndWindowSensorWallmountBase0mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase0mm.stl)    |
+| 3.5 mm | 5g (12g)  | [3mf](models/EveDoorAndWindowSensorWallmountBase3.5mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase3.5mm.stl)|
+| 5 mm   | 5g (13g)  | [3mf](models/EveDoorAndWindowSensorWallmountBase5mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase5mm.stl)    |
+| 10 mm  | 7g (15g)  | [3mf](models/EveDoorAndWindowSensorWallmountBase10mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase10mm.stl)  |
+| 20 mm  | 11g (18g) | [3mf](models/EveDoorAndWindowSensorWallmountBase20mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase20mm.stl)  |
 
-#### Spacer-Only Versions  
+#### Spacer Versions  
 Designed to be used between the wall mount base plate and the sensor. Each consists of a two-part press-fit design:
-| Height | File                                                                                                    |
-|--------|---------------------------------------------------------------------------------------------------------|
-| 3.5 mm | [3mf](models/EveDoorAndWindowSensorSpacer3.5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer3.5mm.stl)|
-| 5 mm   | [3mf](models/EveDoorAndWindowSensorSpacer5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer5mm.stl)    |
-| 10 mm  | [3mf](models/EveDoorAndWindowSensorSpacer10mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer10mm.stl)  |
-| 20 mm  | [3mf](models/EveDoorAndWindowSensorSpacer20mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer20mm.stl)  |
+| Height | Filament  | File                                                                                                    |
+|--------|-----------|---------------------------------------------------------------------------------------------------------|
+| 3.5 mm | 6g (14g)  | [3mf](models/EveDoorAndWindowSensorSpacer3.5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer3.5mm.stl)|
+| 5 mm   | 7g (15g)  | [3mf](models/EveDoorAndWindowSensorSpacer5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer5mm.stl)    |
+| 10 mm  | 9g (17g)  | [3mf](models/EveDoorAndWindowSensorSpacer10mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer10mm.stl)  |
+| 20 mm  | 13g (21g) | [3mf](models/EveDoorAndWindowSensorSpacer20mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer20mm.stl)  |
 
 ### Printing Instructions
 
@@ -75,11 +75,9 @@ Designed to be used between the wall mount base plate and the sensor. Each consi
    You can download the models via [MakerWorld](https://makerworld.com/en/models/your-model-id-here).
 
 2. **Slicing Recommendations**
-   - Layer Height: `0.2mm`  
-   - Infill: `20%` (Grid or Cubic)  
    - Supports: Required for optimal result
-   - Material: PLA or PETG  
-   - Orientation: Default model orientation is optimal
+   - Material: PETG  
+   - Orientation: Default model orientation is recommended
 
 3. **Printing Notes**  
    Only the **spacer variants** are split into two parts (a back plate and a front platform) for better printability. Wall-mount models are single-piece designs.
