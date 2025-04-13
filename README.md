@@ -9,9 +9,9 @@
 A 3D printable spacer system designed to optimize the mounting of the [EVE Door & Window Sensor](https://www.evehome.com/en/eve-door-window). This includes multiple spacer sizes (3.5 mm to 20 mm) with clean press-fit assembly and standalone wall-mount variants.
 
 - [Overview](#overview)
-- [Previews](#previews)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Previews](#previews)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -28,31 +28,6 @@ This project provides a set of modular, 3D printable spacers specifically for th
 - **Ready-to-Print**: Includes `.stl` and `.3mf` files
 - **Two-Part Print (Spacers only)**: For easier printing (press-fit assembly)
 - **Material**: PLA, PETG, or other commonly used filament types
-
-## Previews
-
-### Renders
-
-#### Spacer (two-part design) render
-![Spacer Render](images/render_spacer.png)
-
-#### Wall-mount variant render
-![Wall Mount Render](images/render_wallmount.png)
-
-#### Section view showing the internal structure of the spacer
-![Section View](images/render_section.png) ![Wireframe View](images/render_wireframe.png)
-
-### Printed Examples
-The following printed examples were produced on a Bambu Lab X1C.
-
-#### Printed spacer version
-![Printed Spacer](images/printed_spacer.png)
-
-#### Printed wall-mount version
-![Printed Wall Mount](images/printed_wallmount.png)
-
-#### Printed wall-mount version with EVE sensor mounted
-![Printed Installed](images/printed_installed.png)
 
 ## Installation
 
@@ -105,6 +80,34 @@ Mount the assembled piece to the surface, then attach the EVE sensor.
 ## Usage
 
 These spacers help with proper alignment of the [EVE Door & Window Sensor](https://www.evehome.com/en/eve-door-window) during installation. This system offers additional flexibility in mounting configurations. E.g. aligning the sensor when door/window frames are thick.
+
+## Previews
+
+### Renders
+
+#### Spacer (two-part design) render
+![Spacer Render](images/render_spacer.png)
+
+#### Wall-mount variant render
+![Wall Mount Render](images/render_wallmount.png)
+
+#### Section view showing the internal structure of the spacer
+![Section View](images/render_section.png)
+
+#### Wireframe view showing the internal structure of the spacer
+![Wireframe View](images/render_wireframe.png)
+
+### Printed Examples
+The following printed examples were produced on a Bambu Lab X1C.
+
+#### Printed spacer version
+![Printed Spacer](images/printed_spacer.png)
+
+#### Printed wall-mount version
+![Printed Wall Mount](images/printed_wallmount.png)
+
+#### Printed wall-mount version with EVE sensor mounted
+![Printed Installed](images/printed_installed.png)
 
 ## Contributing
 
