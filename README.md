@@ -10,8 +10,6 @@ This project provides a set of modular, 3D printable spacers specifically for th
 - **Material**: PLA, PETG, or other commonly used filament types  
 - **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
----
-
 ## Features
 
 - 📏 **Available in 5 Sizes**: 0 mm, 3.5 mm, 5 mm, 10 mm, and 20 mm variants  
@@ -20,31 +18,29 @@ This project provides a set of modular, 3D printable spacers specifically for th
 - 🧩 **Ready-to-Print**: Includes `.stl` and `.3mf` files
 - 🔓 **Open-Source**: Modify or adapt the designs to fit your needs
 
----
-
 ## Previews
 
 ### Renders
 
+*Spacer (two-part design) render:*
 ![Spacer Render](images/render_spacer.png)
-*Spacer (two-part design) render*
 
+*Wall-mount variant render:*
 ![Wall Mount Render](images/render_wallmount.png)
-*Wall-mount variant render*
 
+*Section view showing the internal structure of the spacer:*
 ![Section View](images/render_section.png)
-*Section view showing the internal structure of the spacer*
 
 ### Printed Examples
 
-![Printed Spacer](images/printed_spacer.jpg)  
-*Printed spacer version*
+*Printed spacer version:*
+![Printed Spacer](images/printed_spacer.jpg)
 
-![Printed Wall Mount](images/printed_wallmount.jpg)  
-*Printed wall-mount version*
+*Printed wall-mount version:*
+![Printed Wall Mount](images/printed_wallmount.jpg)
 
-![Printed Installed](images/printed_installed.jpg)  
-*Printed wall-mount version with EVE sensor mounted*
+*Printed wall-mount version with EVE sensor mounted:*
+![Printed Installed](images/printed_installed.jpg)
 
 ---
 
@@ -93,8 +89,6 @@ For spacer variants (two-part models):
 
 Mount the assembled piece to the surface, then attach the EVE sensor.
 
----
-
 ## Usage
 
 These spacers help with proper alignment of the [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window) during installation. This system offers additional flexibility in mounting configurations.
@@ -111,8 +105,6 @@ Contributions are welcome! You can help by:
 
 To contribute, fork the repository, make your changes, and submit a pull request.
 
----
-
 ## License
 
 This project is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
@@ -125,8 +117,6 @@ Under the following terms:
 - **Attribution** — You must credit the creator.  
 - **NonCommercial** — You may not use the material for commercial purposes.  
 - **ShareAlike** — You must distribute your contributions under the same license.
-
----
 
 ## Contact
 
