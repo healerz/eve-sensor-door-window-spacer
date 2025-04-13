@@ -11,6 +11,7 @@ A 3D printable spacer system designed to optimize the mounting of the [EVE Door 
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Known Issues](#known-issues)
 - [Previews](#previews)
 - [Contributing](#contributing)
 - [License](#license)
