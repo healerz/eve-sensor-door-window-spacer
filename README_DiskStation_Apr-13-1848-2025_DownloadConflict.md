@@ -51,22 +51,24 @@ The following printed examples were produced on a Bambu Lab X1C using Bambu Lab 
 
 #### Wall-Mount / Base Versions  
 Each wall mount includes the base and platform as a unified component:
-| Height | File                                                                                                                  |
-|--------|-----------------------------------------------------------------------------------------------------------------------|
-| 0 mm   | [3mf](models/EveDoorAndWindowSensorWallmountBase0mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase0mm.stl)    |
-| 3.5 mm | [3mf](models/EveDoorAndWindowSensorWallmountBase3.5mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase3.5mm.stl)|
-| 5 mm   | [3mf](models/EveDoorAndWindowSensorWallmountBase5mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase5mm.stl)    |
-| 10 mm  | [3mf](models/EveDoorAndWindowSensorWallmountBase10mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase10mm.stl)  |
-| 20 mm  | [3mf](models/EveDoorAndWindowSensorWallmountBase20mm.3mf), [stl](models/EveDoorAndWindowSensorWallmountBase20mm.stl)  |
+- `wall_mount_0mm`
+- `wall_mount_3.5mm`
+- `wall_mount_5mm`
+- `wall_mount_10mm`
+- `wall_mount_20mm`
+| Height | File                   |
+|--------|------------------------|
+| 0 mm   | [3mf]()         |
+| 3.5 mm | `wall_mount_3.5mm`     |
+| 5 mm   | `spacer_10mm`          |
+| 10 mm  | `wall_mount_10mm`      |
 
 #### Spacer-Only Versions  
 Designed to be used between the wall mount base plate and the sensor. Each consists of a two-part press-fit design:
-| Height | File                                                                                                    |
-|--------|---------------------------------------------------------------------------------------------------------|
-| 3.5 mm | [3mf](models/EveDoorAndWindowSensorSpacer3.5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer3.5mm.stl)|
-| 5 mm   | [3mf](models/EveDoorAndWindowSensorSpacer5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer5mm.stl)    |
-| 10 mm  | [3mf](models/EveDoorAndWindowSensorSpacer10mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer10mm.stl)  |
-| 20 mm  | [3mf](models/EveDoorAndWindowSensorSpacer20mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer20mm.stl)  |
+- `spacer_3.5mm`
+- `spacer_5mm`
+- `spacer_10mm`
+- `spacer_20mm`
 
 ### Printing Instructions
 
