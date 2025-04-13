@@ -12,7 +12,7 @@ A 3D printable spacer system designed to optimize the mounting of the [**EVE Doo
 
 This project provides a set of modular, 3D printable spacers specifically for the EVE Door & Window Sensor. With multiple heights and standalone wall-mount configurations, it offers a more flexible installation experience than the standard package.
 
-- **Product**: Spacer / Wall-mount system designed for [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window)
+- **Product**: Spacer / Wall-mount system designed for [EVE Door & Window Sensor](https://www.evehome.com/en/eve-door-window)
 - **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Two Styles**: Spacers or standalone wall-mount plates
 - **Available in 5 Sizes**: 0 mm, 3.5 mm, 5 mm, 10 mm, and 20 mm variants  
@@ -80,7 +80,7 @@ Designed to be used between the wall mount base plate and the sensor. Each consi
    - Orientation: Default model orientation is recommended
 
 3. **Printing Notes**  
-   Only the **spacer variants** are split into two parts (a back plate and a front platform) for better printability. Wall-mount models are single-piece designs.
+   Only the spacer variants are split into two parts (a back plate and a front platform) for better printability. Wall-mount models are single-piece designs.
 
 ### Assembly Instructions
 
@@ -95,7 +95,7 @@ Mount the assembled piece to the surface, then attach the EVE sensor.
 
 ## Usage
 
-These spacers help with proper alignment of the [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window) during installation. This system offers additional flexibility in mounting configurations. E.g. aligning the sensor when door/window frames are thick.
+These spacers help with proper alignment of the [EVE Door & Window Sensor](https://www.evehome.com/en/eve-door-window) during installation. This system offers additional flexibility in mounting configurations. E.g. aligning the sensor when door/window frames are thick.
 
 ## Contributing
 
@@ -109,16 +109,16 @@ To contribute, fork the repository, make your changes, and submit a pull request
 
 ## License
 
-This project is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 You are free to:
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material  
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material  
 
 Under the following terms:
-- **Attribution** — You must credit the creator.  
-- **NonCommercial** — You may not use the material for commercial purposes.  
-- **ShareAlike** — You must distribute your contributions under the same license.
+- Attribution — You must credit the creator.  
+- NonCommercial — You may not use the material for commercial purposes.  
+- ShareAlike — You must distribute your contributions under the same license.
 
 ## Contact
 
@@ -126,4 +126,4 @@ Questions, feedback, or suggestions? Open an [issue](https://github.com/healerz/
 
 ## Disclaimer
 This project and its associated files are independent, third-party accessories designed for compatibility with the EVE Door & Window Sensor.
-**EVE is a trademark of Eve Systems GmbH. This project is not affiliated with, endorsed by, or sponsored by Eve Systems.**
+EVE is a trademark of Eve Systems GmbH. This project is not affiliated with, endorsed by, or sponsored by Eve Systems.
