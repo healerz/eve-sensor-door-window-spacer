@@ -81,6 +81,14 @@ Mount the assembled piece to the surface, then attach the EVE sensor.
 
 These spacers help with proper alignment of the [EVE Door & Window Sensor](https://www.evehome.com/en/eve-door-window) during installation. This system offers additional flexibility in mounting configurations. E.g. aligning the sensor when door/window frames are thick.
 
+## Known Issues
+
+### Fragile L-Shaped Overhang (All Variants)
+
+All variants feature a small L-shaped overhang that supports the sensor platform. This element is only 1.8 mm thick at the base where it connects to the main body, making it susceptible to breakage under mechanical stress, especially when printed in brittle materials like PLA or PETG. Personally, I’ve had the best experience with TPU 68D for its durability and flexibility.
+
+If you have suggestions or ideas for overcoming this structural weakness, feel free to share them.
+
 ## Previews
 
 ### Renders
