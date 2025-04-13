@@ -85,17 +85,17 @@ These spacers help with proper alignment of the [EVE Door & Window Sensor](https
 
 ### Renders
 
-#### Spacer (two-part design) render
+#### Spacer (two-part design)
 ![Spacer Render](images/render_spacer.png)
 
-#### Wall-mount variant render
-![Wall Mount Render](images/render_wallmount.png)
-
-#### Section view showing the internal structure of the spacer
+#### Section view of the spacer
 ![Section View](images/render_section.png)
 
-#### Wireframe view showing the internal structure of the spacer
+#### Wireframe view of the spacer
 ![Wireframe View](images/render_wireframe.png)
+
+#### Wall-mount variant
+![Wall Mount Render](images/render_wallmount.png)
 
 ### Printed Examples
 The following printed examples were produced on a Bambu Lab X1C.
