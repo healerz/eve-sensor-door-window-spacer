@@ -6,7 +6,16 @@
 
 # Base Plate And Spacer for EVE Door & Window Sensor
 
-A 3D printable spacer system designed to optimize the mounting of the [**EVE Door & Window Sensor**](https://www.evehome.com/en/eve-door-window). This includes multiple spacer sizes (3.5 mm to 20 mm) with clean press-fit assembly and standalone wall-mount variants.
+A 3D printable spacer system designed to optimize the mounting of the [EVE Door & Window Sensor](https://www.evehome.com/en/eve-door-window). This includes multiple spacer sizes (3.5 mm to 20 mm) with clean press-fit assembly and standalone wall-mount variants.
+
+- [Overview](#overview)
+- [Previews](#previews)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 
@@ -34,7 +43,7 @@ This project provides a set of modular, 3D printable spacers specifically for th
 ![Section View](images/render_section.png)
 
 ### Printed Examples
-The following printed examples were produced on a [Bambu Lab X1C](https://bambulab.com/en/x1).
+The following printed examples were produced on a Bambu Lab X1C.
 
 #### Printed spacer version
 ![Printed Spacer](images/printed_spacer.png)
