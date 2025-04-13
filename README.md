@@ -34,7 +34,7 @@ This project provides a set of modular, 3D printable spacers specifically for th
 ![Section View](images/render_section.png)
 
 ### Printed Examples
-The following printed examples were produced on a Bambu Lab X1C using Bambu Lab PLA Matte in Ivory White, with Bambu Lab PLA/PETG support material.
+The following printed examples were produced on a [Bambu Lab X1C](https://bambulab.com/en/x1).
 
 #### Printed spacer version
 ![Printed Spacer](images/printed_spacer.png)
