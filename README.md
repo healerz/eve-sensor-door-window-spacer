@@ -88,7 +88,7 @@ These spacers help with proper alignment of the [EVE Door & Window Sensor](https
 
 ### Fragile L-Shaped Overhang (All Variants)
 
-All variants feature a small L-shaped overhang that supports the sensor platform. This element is only 1.8 mm thick at the base where it connects to the main body, making it susceptible to breakage under mechanical stress, especially when printed in brittle materials like PLA or PETG. Personally, I’ve had the best experience with TPU 68D for its durability and flexibility.
+All variants feature a small L-shaped overhang that supports the sensor platform. This element is only 1.8 mm thick at the base where it connects to the main body, making it susceptible to breakage under mechanical stress, especially when printed in brittle materials like PLA or PETG.
 
 If you have suggestions or ideas for overcoming this structural weakness, feel free to share them.
 
