@@ -52,7 +52,7 @@ Designed to be used between the wall mount base plate and the sensor. Each consi
 | 3.5 mm | 6g (14g)  | [3mf](models/EveDoorAndWindowSensorSpacer3.5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer3.5mm.stl)|
 | 5 mm   | 7g (15g)  | [3mf](models/EveDoorAndWindowSensorSpacer5mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer5mm.stl)    |
 | 10 mm  | 9g (17g)  | [3mf](models/EveDoorAndWindowSensorSpacer10mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer10mm.stl)  |
-| 15 mm  | 11g (19g) | [3mf](models/EveDoorAndWindowSensorSpacer15mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer10mm.stl)  |
+| 15 mm  | 11g (19g) | [3mf](models/EveDoorAndWindowSensorSpacer15mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer15mm.stl)  |
 | 20 mm  | 13g (21g) | [3mf](models/EveDoorAndWindowSensorSpacer20mm.3mf), [stl](models/EveDoorAndWindowSensorSpacer20mm.stl)  |
 
 ### Printing Instructions
@@ -88,7 +88,7 @@ These spacers help with proper alignment of the [EVE Door & Window Sensor](https
 
 ### Fragile L-Shaped Overhang (All Variants)
 
-All variants feature a small L-shaped overhang that supports the sensor platform. This element is only 1.8 mm thick at the base where it connects to the main body, making it susceptible to breakage under mechanical stress, especially when printed in brittle materials like PLA or PETG.
+All variants feature a small L-shaped overhang that supports the sensor platform. This element is only 1.8 mm thick at the base where it connects to the main body, making it susceptible to breakage under mechanical stress, especially when printed in brittle materials like PLA or PETG. Personally, I’ve had the best experience with TPU 68D for its durability and flexibility.
 
 If you have suggestions or ideas for overcoming this structural weakness, feel free to share them.
 
@@ -118,8 +118,7 @@ The following printed examples were produced on a Bambu Lab X1C.
 ![Printed Wall Mount](images/printed_wallmount.png)
 
 #### Printed wall-mount version with EVE sensor mounted
-![Printed Installed](images/printed_installed_1.jpg)
-![Printed Installed](images/printed_installed_2.jpg)
+![Printed Installed](images/printed_installed.png)
 
 ## Contributing
 
