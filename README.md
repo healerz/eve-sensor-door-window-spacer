@@ -2,7 +2,7 @@
 [![3D Print: Ready](https://img.shields.io/badge/3D_Print-Ready-brightgreen.svg)](#installation)
 [![Compatible with: EVE Sensor](https://img.shields.io/badge/Compatible_with-EVE_Sensor-blue.svg)](https://www.evehome.com/en/eve-door-window)
 [![Made with: Autodesk Fusion](https://img.shields.io/badge/Made_with-Autodesk_Fusion-orange.svg)](https://www.autodesk.com/products/fusion-360/overview#top)
-[![Downloads on: MakerWorld](https://img.shields.io/badge/MakerWorld-Download-blueviolet?logo=printables)](https://makerworld.com/en/models/your-model-id-here)
+[![Downloads on: MakerWorld](https://img.shields.io/badge/MakerWorld-Download-blueviolet?logo=printables)](https://makerworld.com/en/models/1332995-base-plate-and-spacer-for-eve-door-window-sensor)
 
 # Base Plate And Spacer for EVE Door & Window Sensor
 
@@ -59,7 +59,7 @@ Designed to be used between the wall mount base plate and the sensor. Each consi
 
 1. **Download the Files**  
    Models are provided in both `.stl` and `.3mf` formats.
-   You can download the models via [MakerWorld](https://makerworld.com/en/models/your-model-id-here).
+   You can download the models via [MakerWorld](https://makerworld.com/en/models/1332995-base-plate-and-spacer-for-eve-door-window-sensor).
 
 2. **Slicing Recommendations**
    - Supports: Required for optimal result
