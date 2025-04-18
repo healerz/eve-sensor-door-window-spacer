@@ -118,8 +118,8 @@ The following printed examples were produced on a Bambu Lab X1C.
 ![Printed Wall Mount](images/printed_wallmount.png)
 
 #### Printed wall-mount version with EVE sensor mounted
-![Printed Installed](images/printed_installed_1.png)
-![Printed Installed](images/printed_installed_2.png)
+![Printed Installed](images/printed_installed_1.jpg)
+![Printed Installed](images/printed_installed_2.jpg)
 
 ## Contributing
 
