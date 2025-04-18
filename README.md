@@ -112,10 +112,10 @@ If you have suggestions or ideas for overcoming this structural weakness, feel f
 The following printed examples were produced on a Bambu Lab X1C.
 
 #### Printed spacer version
-![Printed Spacer](images/printed_spacer.png)
+![Printed Spacer](images/printed_spacer.jpg)
 
 #### Printed wall-mount version
-![Printed Wall Mount](images/printed_wallmount.png)
+![Printed Wall Mount](images/printed_wallmount.jpg)
 
 #### Printed wall-mount version with EVE sensor mounted
 ![Printed Installed](images/printed_installed_1.jpg)
